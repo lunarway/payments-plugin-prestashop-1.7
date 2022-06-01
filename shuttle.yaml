@@ -1,0 +1,5 @@
+plan: false
+
+vars:
+  service: payments-plugin-prestashop-1.7
+  squad: juno
