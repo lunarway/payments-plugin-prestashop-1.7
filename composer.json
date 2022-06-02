@@ -1,0 +1,11 @@
+{
+  "name": "lunar/plugin-prestashop",
+  "description": "Lunar prestashop gateway development",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lunar",
+      "email": "support@lunar.app"
+    }
+  ]
+}
